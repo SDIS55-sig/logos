@@ -1,1 +1,1 @@
-Ce dossier contient les icônes utilisés pour la symbologie des hydrants/DECI/PEI
+Ce dossier contient les icônes utilisées pour la symbologie des hydrants/DECI/PEI
